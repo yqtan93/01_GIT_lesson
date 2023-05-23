@@ -2,10 +2,7 @@ verse-01.txt
 
 chorus-01.txt
 
-Am I your fire?
-Your one desire
-Yes, I know it's too late
-But I want it that way
+verse-02.txt
 
 Tell me why
 Ain't nothin' but a heartache
