@@ -4,7 +4,7 @@ chorus-01.txt
 
 verse-02.txt
 
-chorus-02.txt
+chorus-01.txt
 
 verse-03.txt
 
